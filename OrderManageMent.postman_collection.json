@@ -20,12 +20,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8081/v1/orderitems",
+					"raw": "http://localhost:8082/v1/orderitems",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"v1",
 						"orderitems"
@@ -40,12 +40,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/v1/orderitems/402880e9740767f2017407683fb00000",
+					"raw": "http://localhost:8082/v1/orderitems/402880e9740767f2017407683fb00000",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"v1",
 						"orderitems",
